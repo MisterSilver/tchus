@@ -1,7 +1,7 @@
 const Discord = require("discord.js"),
 client = new Discord.Client(),
 weather = require("weather-js"),
-token = "MjUwMDA1MDI3MTUyNzIzOTY5.CxOi3g.T12XrjS8QW6qjTG6qwkIODRUNhI";
+token = "NDUwMDU0MDg1NzQ4NTg4NTQ1.DgHLTg.fBHr5wj_TynyM6jRdwcxcSWdKXU";
 Wiki = require("wikijs"),
 express = require("express"),
 app = express(),
